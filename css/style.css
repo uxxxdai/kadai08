@@ -1,0 +1,111 @@
+body {
+    padding: 30px;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.navbar-header {
+    text-align: left;
+    margin-right:20px;
+}
+
+.container-fluid {
+    width:70%;
+    display:flex;
+}
+
+.title {
+    width:70%;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+
+} 
+
+button, input, select, textarea, pre, th, td, li, dt, dd {
+    font-family: inherit;
+    font-size: 1rem;
+    }
+
+p {
+    margin-bottom: 0px;
+}
+
+textarea {
+    width: 70%;
+    height: 60px;
+}
+.file-up {
+    margin-bottom: 10px;
+    width:70%;
+}
+
+.input_text {
+    width: 70%;
+    height:30px;
+}
+.submit {
+    width:70%;
+    text-align: center;
+}
+.btn {
+    display: inline-block;
+    border-radius: 3px;
+    font-size: 18px;
+    background: #67c5ff;
+    border: 2px solid #67c5ff;
+    padding: 5px 10px;
+    color: #fff;
+    cursor: pointer;
+    margin-bottom: 200px;
+}
+
+.btn2 {
+    margin-right:5px;
+}
+
+img {
+    width:100%;
+}
+
+.wrap {
+    display:flex;
+    width:100%;
+    margin: 0 0 10px 0;
+}
+
+.text_output {
+    width:50%;
+    margin-bottom:10px
+}
+
+.text_table {
+    table-layout: fixed;
+    width: 99%;
+    margin: 0 0 5px 0;
+}
+
+.text_table td{
+    word-wrap: break-word;
+}
+
+.product_image {
+    width:50%;
+}
+
+.title2 {
+    width:100%;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+} 
+
+.after_found {
+    width:70%;
+}
+
+.lati_long {
+    margin:0;
+}
